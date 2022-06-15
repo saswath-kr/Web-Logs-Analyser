@@ -1,1 +1,1 @@
-# Web-Logs-Analyser
+# A-Web-based-Platform-for-Server-Log-Analytics
